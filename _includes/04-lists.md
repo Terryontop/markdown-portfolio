@@ -1,6 +1,6 @@
-<ol>The Ecosystem
-  <li>The iPhone </li>
-  <li> The Apple Watch </li>
-  <li> The AirPods Pro </li>
-  <li> The MacBook Pro </li>
-  </ol>
+   item 
+  -The iPhone 
+  - The Apple Watch 
+  - The AirPods Pro 
+  - The MacBook Pro 
+  
